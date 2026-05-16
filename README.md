@@ -2,6 +2,10 @@
 
 基于 MobileNetV2 迁移学习的 6 类垃圾分类图像分类器。
 
+## 效果展示
+<img width="500" height="500" alt="test_result" src="https://github.com/user-attachments/assets/90e369f5-e4a9-4227-8da6-712d442dce54" />
+
+
 ## 分类类别
 
 | 类别 | 英文 | 说明 |
