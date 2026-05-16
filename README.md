@@ -4,6 +4,7 @@
 
 ## 效果展示
 <img width="500" height="500" alt="test_result" src="https://github.com/user-attachments/assets/90e369f5-e4a9-4227-8da6-712d442dce54" />
+<img width="500" height="500" alt="paper_test_result" src="https://github.com/user-attachments/assets/739fab90-1b4b-435c-8563-acbb1a8adf18" />
 
 
 ## 分类类别
