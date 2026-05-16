@@ -1,0 +1,10 @@
+Epoch [ 1/10]  Loss: 0.9900  Train: 0.644  Val: 0.734 [����]
+Epoch [ 2/10]  Loss: 0.6416  Train: 0.778  Val: 0.789 [����]
+Epoch [ 3/10]  Loss: 0.5635  Train: 0.801  Val: 0.801 [����]
+Epoch [ 4/10]  Loss: 0.5196  Train: 0.814  Val: 0.815 [����]
+Epoch [ 5/10]  Loss: 0.4946  Train: 0.831  Val: 0.841 [����]
+Epoch [ 6/10]  Loss: 0.4582  Train: 0.848  Val: 0.828
+Epoch [ 7/10]  Loss: 0.4664  Train: 0.834  Val: 0.827
+Epoch [ 8/10]  Loss: 0.4552  Train: 0.838  Val: 0.817
+Epoch [ 9/10]  Loss: 0.4379  Train: 0.848  Val: 0.825
+Epoch [10/10]  Loss: 0.4464  Train: 0.849  Val: 0.839
